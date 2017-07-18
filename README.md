@@ -31,7 +31,7 @@ Following is the software-hardware list:
 * [Microsoft HoloLens By Example](https://www.packtpub.com/web-development/microsoft-hololens-example?utm_source=github&utm_medium=repository&utm_campaign=9781787126268)
   
   
-* [HoloLens Beginner’s Guide](https://www.packtpub.com/hardware-and-creative/hololens-beginner's-guide?utm_source=github&utm_medium=repository&utm_campaign=9781786464729)
+* [HoloLens Beginner’s Guide](https://www.packtpub.com/hardware-and-creative/hololens-beginner%E2%80%99s-guide?utm_source=github&utm_medium=repository&utm_campaign=9781786464729)
   
   
 * [HoloLens Blueprints](https://www.packtpub.com/application-development/hololens-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781787281943)
