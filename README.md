@@ -17,18 +17,15 @@ The code will look like the following:
 
 Following is the software-hardware list:
 
-| Chapter  | Software required | Hardware required | OS required 
-| ------------- | ------------- | ------------- | ------------- |
-| 02-08 | Visual Studio 2015
-SP3
-Unity 5.5
-HoloLens Emulator | Intel I5
-8GB memory | Windows
-10
-Profession
-al with
-Hyper-V
-enabled |
+| Chapter       | Software required      | Hardware required | OS required 
+| ------------- | -------------          | -------------     | -------------
+| 02-08 |       | Visual Studio 2015 SP3 | Intel I5          | Windows 10 Professional 
+                                                             | with Hyper-Venabled 
+                | Unity 5.5               
+                | HoloLens Emulator      
+                | 8GB memory 
+
+
 
 ## Related Products
  
