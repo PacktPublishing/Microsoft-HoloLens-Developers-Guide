@@ -1,0 +1,1 @@
+C:\Users\Dennis\Documents\Visual Studio 2015\Projects\GazeSampleDirectX\GazeSampleDirectX\GazeSampleDirectX.csproj;x86

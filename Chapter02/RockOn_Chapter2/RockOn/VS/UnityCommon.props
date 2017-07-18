@@ -1,0 +1,8 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityInstallationDir>C:\Program Files\Unity Hololens 5.4.0b14-HTP\Editor</UnityInstallationDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity Hololens 5.4.0b14-HTP\Editor\Data\PlaybackEngines\MetroSupport</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(SolutionDir)Unity\Tools</UnityWSAToolsDir>
+        <UnityProjectDir>C:\Users\Dennis\OneDrive\Projecten\RockOn</UnityProjectDir>
+    </PropertyGroup>
+</Project>

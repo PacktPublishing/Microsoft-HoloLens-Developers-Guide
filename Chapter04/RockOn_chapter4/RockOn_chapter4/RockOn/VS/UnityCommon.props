@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>RockOn</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\Murtaza\Dropbox\Packt\Work Here\Today\Code files,FM and Preface\Chapter 4\RockOn_chapter4\RockOn_chapter4\RockOn\VS\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\Murtaza\Dropbox\Packt\Work Here\Today\Code files,FM and Preface\Chapter 4\RockOn_chapter4\RockOn_chapter4\RockOn\</UnityProjectDir>
+        <UnityWSAPlayerDir>E:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

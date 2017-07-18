@@ -1,0 +1,4 @@
+C:\Users\Murtaza\Dropbox\Packt\Work Here\Today\Code files,FM and Preface\Chapter 4\RockOn_chapter4\RockOn_chapter4\RockOn\VS\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\Murtaza\Dropbox\Packt\Work Here\Today\Code files,FM and Preface\Chapter 4\RockOn_chapter4\RockOn_chapter4\RockOn\VS\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Murtaza\Dropbox\Packt\Work Here\Today\Code files,FM and Preface\Chapter 4\RockOn_chapter4\RockOn_chapter4\RockOn\VS\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\Murtaza\Dropbox\Packt\Work Here\Today\Code files,FM and Preface\Chapter 4\RockOn_chapter4\RockOn_chapter4\RockOn\VS\RockOn\RockOn.csproj;x86
