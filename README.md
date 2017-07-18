@@ -20,8 +20,8 @@ Following is the software-hardware list:
 | Chapter       | Software required      | Hardware required        | OS required 
 | ------------- | -------------          | -------------            | -------------
 | 02-08         | Visual Studio 2015 SP3 | Intel I5 with 8GB memory | Windows 10 Professional with Hyper-Venabled 
-|-------------- | Unity 5.5              |-------------    
-|-------------- | HoloLens Emulator      |-------------    
+|               | Unity 5.5                
+|               | HoloLens Emulator        
               
 
 
