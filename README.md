@@ -1,4 +1,4 @@
-# Microsoft-HoloLens-Developers-Guide
+# Microsoft HoloLens Developer's Guide
 This is the code repository for [Microsoft HoloLens Developer's Guide](https://www.packtpub.com/web-development/microsoft-hololens-developers-guide?utm_source=github&utm_medium=repository&utm_campaign=9781786460851), published by [Packt](https://www.packtpub.com/). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 HoloLens, Microsoft’s innovative augmented reality headset, overlaps holograms into a user’s vision of their environment. Your ideas are closer to becoming real when you can create and work with holograms in relation to the world around you. If you are dreaming beyond virtual worlds, beyond screens, beyond pixels, and want to take a big leap in the world of augmented reality, then this is the book you want.
