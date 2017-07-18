@@ -1,5 +1,5 @@
 # Microsoft-HoloLens-Developers-Guide
-This is the code repository for [iOS Programming Cookbook](https://www.packtpub.com/application-development/ios-programming-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781786460981), published by [Packt](https://www.packtpub.com/). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Microsoft HoloLens Developer's Guide](https://www.packtpub.com/web-development/microsoft-hololens-developers-guide?utm_source=github&utm_medium=repository&utm_campaign=9781786460851), published by [Packt](https://www.packtpub.com/). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 HoloLens, Microsoft’s innovative augmented reality headset, overlaps holograms into a user’s vision of their environment. Your ideas are closer to becoming real when you can create and work with holograms in relation to the world around you. If you are dreaming beyond virtual worlds, beyond screens, beyond pixels, and want to take a big leap in the world of augmented reality, then this is the book you want.
 ### Instructions and Navigations
@@ -28,13 +28,13 @@ Following is the software-hardware list:
 ## Related Products
  
   
-* [iOS and OS X Network Programming Cookbook](https://www.packtpub.com/application-development/ios-and-os-x-network-programming-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849698085)
+* [Microsoft HoloLens By Example](https://www.packtpub.com/web-development/microsoft-hololens-example?utm_source=github&utm_medium=repository&utm_campaign=9781787126268)
   
   
-* [iOS Game Programming Cookbook](https://www.packtpub.com/game-development/ios-game-programming-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781784398255)
+* [HoloLens Beginner’s Guide](https://www.packtpub.com/hardware-and-creative/hololens-beginner's-guide?utm_source=github&utm_medium=repository&utm_campaign=9781786464729)
   
   
-* [iOS Forensics Cookbook](https://www.packtpub.com/networking-and-servers/ios-forensics-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783988464)
+* [HoloLens Blueprints](https://www.packtpub.com/application-development/hololens-blueprints?utm_source=github&utm_medium=repository&utm_campaign=9781787281943)
   
  
 
